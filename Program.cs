@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -22,7 +22,7 @@ using System.Threading.Tasks;
  * En Main nos encargaremos de pedir los siguientes datos:
  * nombre, 
  * apellidos, 
- * dirección, 
+ * dirección,
  * rfc(en México el RFC es una clave que nos permite cumplir con nuestras obligaciones fiscales, ustedes pueden usar el similar de su país).
  * saldo inicial para depositar a la cuenta bancaria.
 
